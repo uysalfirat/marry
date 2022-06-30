@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uysalfirat
 - 👀 I’m interested in flight control
 - 🌱 I’m currently learning matlab simulink
-- 💞️ I’m looking to collaborate on defence endustry
+- 💞️  I’m looking to collaborate on defence and aviation industry
 - 📫 How to reach me https://www.linkedin.com/in/firatalimcesuruysal23/
 
 <!---
